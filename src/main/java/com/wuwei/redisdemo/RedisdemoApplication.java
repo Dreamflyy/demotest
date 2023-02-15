@@ -13,6 +13,9 @@ public class RedisdemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(RedisdemoApplication.class, args);
+        System.out.println("git add 后进行");
+        System.out.println("git 提交");
+        System.out.println("git =====提交");
 
     }
 
